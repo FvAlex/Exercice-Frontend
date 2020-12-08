@@ -1,0 +1,117 @@
+body{
+    width: 500px;
+    height: 600px;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+.resultat{
+    color: white;
+    background-color: black;
+    width: 500px;
+    height: 100px;
+    margin: 0;
+}
+#divrow{
+    display: flex;
+    flex-direction: row;
+    border: solid grey;
+}
+#divrowGauche{
+    display: flex;
+    flex-direction: row;
+}
+#divrow_1{
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
+#divrow_2{
+    height: 400px;
+    width: 400px;
+   
+}
+#divrow_3{
+    height: 400px;
+    width: 100px;
+}
+#row1{
+    height: 100px;
+    width: 400px;;
+}
+#row2{
+    height: 100px;
+    width: 400px;
+}
+#row3{
+    height: 100px;
+    width: 400px;
+}
+#row4{
+    height: 100px;
+    width: 400px;
+}
+#row5{
+    height: 100px;
+    width: 400px;
+}
+
+.button{
+    color: rgb(41, 130, 202);
+    border-radius: 5px;
+    text-align: center;
+    padding: 30px;
+    margin-top: 10px;
+}
+#btnNeg{
+    margin-left: 45px;
+}
+#btnMult{
+    margin-left: 45px;
+}
+#btnAdd{
+    margin-left: 45px;
+}
+#nbsept{
+    margin-left: 45px;
+}
+#nbhuit{
+    margin-left: 45px;
+}
+#nbneuf{
+    margin-left: 45px;
+}
+#nbsix{
+    margin-left: 45px;
+}
+#nbcinq{
+    margin-left: 45px;
+}
+#nbquatre{
+    margin-left: 45px;
+}   
+#nbun{
+    margin-left: 45px;
+}
+#nbdeux{
+    margin-left: 45px;
+}
+#nbtrois{
+    margin-left: 45px;
+}
+#nbzero{
+    margin-left: 45px;
+}
+#nbpoint{
+    margin-left: 45px;
+}
+#nbAC{
+    margin-left: 45px;
+    color: white;
+    background-color: red;
+}
+#egale{
+    background-color: rgb(41, 130, 202);
+    color: white;
+    margin-left: 15px;
+    height: 380px;
+}

@@ -1,0 +1,15 @@
+#container{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+}
+#name{
+    margin-bottom: 10px;
+}
+#comment{
+    background-color: rgb(45, 149, 218);
+    color: white;
+    margin-top: 10px;
+    width: 100px;
+    padding: 5px;
+}

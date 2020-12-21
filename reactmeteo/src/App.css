@@ -1,0 +1,50 @@
+body{
+  background-color: blue;
+  background: url("Image/meteo-background.jpg") no-repeat;
+  background-size: cover;
+}
+.container{
+  border: solid black;
+  width: 800px;
+  height: 600px;
+  border-radius: 30px;
+  margin: auto;
+  margin-top: 2%;
+  box-shadow: 10px 5px 5px black;
+}
+.today{
+  width: 200px;
+  margin-left: 60%;
+  margin-top: 100px;
+  font-size: 20px;
+}
+.semaine{
+  display: flex;
+  flex-direction: row;
+  margin-top: 220px;
+  position: absolute;
+}
+.jour1, .jour2, .jour3, .jour4{
+  border:solid black;
+  border-radius: 30px;
+  width: 180px;
+  height: 180px;
+  margin-left: 10px;
+  text-align: center;
+  font-size: 20px;
+  box-shadow: 10px 5px 5px black;
+}
+.input{
+  text-align: center;
+  margin-top: 50px;
+}
+.Latitude{
+  margin-left: 10px;
+  font-size: 20px;
+}
+.Longitude{
+  font-size: 20px;
+}
+.temp{
+  margin-top: 100px;
+}

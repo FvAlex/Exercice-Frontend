@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+}
+body {
+  background-color: coral;
+}
+.body {
+  border: solid pink;
+  margin-left: 25%;
+  margin-top: 10%;
+  text-align: center;
+  width: 40%;
+  padding: 50px;
+}
+#btn {
+  margin-top: 40px;
+}
+#output {
+  margin-top: 50px;
+}
+
+.container {
+  background-color: white;
+}

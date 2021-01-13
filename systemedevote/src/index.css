@@ -1,0 +1,32 @@
+.container{
+  border: solid blue;
+  width: 500px;
+  height: 325px;
+  margin-top: 20px;
+}
+.title{
+  color: white;
+  font-size: 15px;
+  background-color: blue;
+  margin-top: 10px;
+  padding: 10px;
+}
+.yes{
+  border: solid grey;
+}
+.no{
+  border: solid grey;
+}
+.other{
+  border: solid grey;
+}
+.answer{
+  padding: 5px;
+  margin-top: 10px;
+}
+.btn{
+  margin-top: 10px;
+}
+.answer_marg_left{
+  margin-left: 10px;
+}

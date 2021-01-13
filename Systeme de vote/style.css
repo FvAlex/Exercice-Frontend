@@ -1,0 +1,19 @@
+.container{
+    border: solid blue;
+    width: 500px;
+    height: 450px;
+}
+.title{
+    color: white;
+    margin-left: 10px;
+    font-size: 10px;
+}
+.yes{
+    border: solid grey;
+}
+.no{
+    border: solid grey;
+}
+.other{
+    border: solid grey;
+}
